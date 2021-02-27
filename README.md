@@ -1,2 +1,1 @@
-# Practica1Jenkins.
-SinDSdddd
+readme
